@@ -6,7 +6,7 @@ def main():
         pygame.init()
         SCREEN_WIDTH, SCREEN_HEIGHT = 640, 512
         GRID_SIZE = 32  
-        GREEN = (150, 240, 150)
+        GREEN = (200, 240, 150)
         BLACK = (0,0,0)
         # You can draw the mole with this snippet:
         # screen.blit(mole_image, mole_image.get_rect(topleft=(x,y)))
